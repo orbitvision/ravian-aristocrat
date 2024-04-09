@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "agora-app-builder-cli": "3.0.0-beta.86"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "name": "ravian-aristocrat",
+  "scripts": {
+    "start": "agora-app-builder-cli",
+    "start:info": "agora-app-builder-cli --info"
+  },
+  "version": "1.0.0",
+  "description": "The Real-Time Engagement Platform for meaningful human connections.",
+  "main": "script.js",
+  "author": "Nguyen Tien Dat, Nguyen Van Toan, Vinisy Louis"
+}
