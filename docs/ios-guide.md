@@ -6,11 +6,11 @@ To create a development build,
 1. Follow the quickstart guide to create a new app with the app builder and install all the dependencies
 2. Run npm start in the project root. This will launch the CLI
 3. Select Build in the main menu
-Linux_Build
+![Select Build](images/ios-build/1.png)
 4. Select iOS in the platforms menu
-iOS_Platform
+![Select iOS](images/ios-build/2.png)
 5. Select Development in the build menu
-Linux_Type_Development
+![Select Development](images/ios-build/3.png)
 6. Xcode will now launch with your app
 7. Select your project in the Xcode project navigator
 8. Type in a bundle id and build number for your project
@@ -27,15 +27,15 @@ To create a production build,
 1. Follow the quickstart guide to create a new app with the app builder and install all the dependencies
 2. Run npm start in the project root. This will launch the CLI
 3. Select Build in the main menu
-Linux_Build
+![Select Build](images/ios-build/1.png)
 4. Select iOS in the platforms menu
-iOS_Platform
-5. Select Production in the build menu
-Linux_Type_Production
-6. Xcode will now launch with your app
-7. Select your project in the Xcode project navigator
-8. Type in a bundle id and build number for your project
-9. To configure automatic signing,
+![Select iOS](images/ios-build/2.png)
+6. Select Production in the build menu
+![Select Production](images/ios-build/4.png)
+7. Xcode will now launch with your app
+8. Select your project in the Xcode project navigator
+9. Type in a bundle id and build number for your project
+10. To configure automatic signing,
   1. Navigate to signing and capabilities
   2. Select your signing team
 10. To enable deep links,
