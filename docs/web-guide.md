@@ -29,12 +29,12 @@ To create a production build,
 ![Select Production](images/4.png)
 6. This will build the production edition of the Web application on your system
 
-7. The binary will be located at agora-app-builder/<PRODUCT_ID>/dist
+7. The binary will be located at ```agora-app-builder/&lt;PRODUCT_ID&gt;/dist```
 
 8. This project uses react-router to perform front-end routing. So you need to configure your website host (or webserver) to redirect all the requests to index.html. We have already provided the config for two popular SPA hosts: vercel & netlify
 
 
-Copy paste the appropriate redirect file into agora-app-builder/<PRODUCT_ID>/dist (which contains the built index.html and js).
+*Copy paste the appropriate redirect file into ```agora-app-builder/&lt;PRODUCT_ID&gt;/dist``` (which contains the built index.html and js).*
 
 vercel.json (for vercel)
 
