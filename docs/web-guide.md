@@ -22,14 +22,11 @@ To create a production build,
 2. Run npm start in the project root. This will launch the CLI
 
 3. Select Build in the main menu
-
-Linux_Build
+![Select build](images/1.png)
 4. Select Web in the platforms menu
-
-CLIBuild
+![Select Web](images/2.png)
 5. Select Production in the build menu
-
-Linux_Type_Production
+![Select Production](images/4.png)
 6. This will build the production edition of the Web application on your system
 
 7. The binary will be located at agora-app-builder/<PRODUCT_ID>/dist
