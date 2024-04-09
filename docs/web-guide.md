@@ -6,11 +6,11 @@ To create a development build,
 1. Follow the quickstart guide to create a new app with the app builder and install all the dependencies
 2. Run npm start in the project root. This will launch the CLI
 3. Select Build in the main menu
-![Select build](images/1.png)
+![Select build](images/web-build/1.png)
 4. Select Web in the platforms menu
-![Select Web](images/2.png)
+![Select Web](images/web-build/2.png)
 5. Select Development in the build menu
-![Select Development](images/3.png)
+![Select Development](images/web-build/3.png)
 6. This will launch the development edition of the Web application on your system
 
 ## Production build
@@ -22,11 +22,11 @@ To create a production build,
 2. Run npm start in the project root. This will launch the CLI
 
 3. Select Build in the main menu
-![Select build](images/1.png)
+![Select build](images/web-build/1.png)
 4. Select Web in the platforms menu
-![Select Web](images/2.png)
+![Select Web](images/web-build/2.png)
 5. Select Production in the build menu
-![Select Production](images/4.png)
+![Select Production](images/web-build/4.png)
 6. This will build the production edition of the Web application on your system
 
 7. The binary will be located at ```agora-app-builder/&lt;PRODUCT_ID&gt;/dist```
