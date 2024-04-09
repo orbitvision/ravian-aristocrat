@@ -6,7 +6,7 @@ To create a development build,
 1. Follow the quickstart guide to create a new app with the app builder and install all the dependencies
 2. Run npm start in the project root. This will launch the CLI
 3. Select Build in the main menu
-![Select build](images/web-build/1.png)
+![Select build](.\images\web-build\1.png)
 4. Select Web in the platforms menu
 ![Select Web](images/web-build/2.png)
 5. Select Development in the build menu
